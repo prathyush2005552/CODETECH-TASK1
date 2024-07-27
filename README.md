@@ -37,6 +37,5 @@ Professionals: The calculator can be used by professionals who need to perform q
 Anyone who needs a simple calculator: The calculator is a convenient tool for anyone who needs to perform basic arithmetic operations.
 
 
-![image alt](https://github.com/prathyush2005552/CODETECH-TASK1/blob/main/Screenshot%202024-07-27%20221149.png?raw=true)
 
 
